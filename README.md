@@ -1,12 +1,12 @@
-# HCI Sec 1 Infocomm Project
+# Infocomm Project
 
-Welcome to the **HCI Sec 1 Infocomm Project**! This project is all about learning how to use computers and technology in fun and useful ways. You'll work on coding, solving problems, and using digital tools to create cool stuff. This project is perfect for getting hands-on experience with tech and learning some new skills.
+Welcome to the **Infocomm Project**! This project is all about learning how to use computers and technology in fun and useful ways. You'll work on coding, solving problems, and using digital tools to create cool stuff. This project is perfect for getting hands-on experience with tech and learning some new skills.
 
 ---
 
 ## What’s This Project About?
 
-The **HCI Sec 1 Infocomm** project helps you learn:
+The **Infocomm** project helps you learn:
 
 - **Basic Coding**: Learn how to write simple code and make your own programs.
 - **Digital Tools**: Get to know how to use programs like Google Docs, PowerPoint, and others for schoolwork and fun projects.
@@ -76,14 +76,4 @@ By the end of this project, you’ll be able to:
 
 ---
 
-## Questions?
-
-If you need help, just reach out to your teacher!
-
-- **Instructor**: [Phoenix and Haoxuan]
-- **Email**: [phoenix.official.ai.007@gmail.com] or [fanrongli1507@gmail.com]
-- **Office Hours**: [Any reasonable times]
-
----
-
-Good luck, and have fun with the **HCI Sec 1 Infocomm Project**!
+Good luck, and have fun with the **Infocomm Project**!

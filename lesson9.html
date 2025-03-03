@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+    body {
+      margin: 0px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      font-family: "Sigmar", Arial;
+    }
+    .container {
+      background-color: #ffa500;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      width: 40%;
+    }
+    h1 {
+      text-align: center;
+
+    }
+    /*
+    tr {
+      cursor: pointer;
+    }
+      */
+    table {
+      margin-bottom: 40px;
+      table-layout: fixed;
+      font-weight: bold;
+    }
+    thead th{
+      color: white;
+      background-color: black;
+      width: 33.3%;
+      
+    }
+    tr:nth-child(2n+1) {
+      background-color: #09ffff;
+    }
+    tr:nth-child(2n) {
+      background-color: #028104;
+    }
+    tr:nth-child(28) {
+      background-color: red;
+    }
+    td:nth-child(3n+1) {
+      text-align: center;
+    }
+    td:nth-child(3n) {
+      text-align: right;
+    }
+    tr:hover {
+      color: white;
+      background-color: black;
+      cursor: pointer;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Class XYZ</h1>
+    <table>
+      <thead>
+          <tr>
+              <th>No.</th>
+              <th>Name</th>
+              <th>Birth Month</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr><td>1</td><td>William</td><td>Sep</td></tr>
+          <tr><td>2</td><td>Benjamin</td><td>Dec</td></tr>
+          <tr><td>3</td><td>Cantwell</td><td>May</td></tr>
+          <tr><td>4</td><td>Jasper</td><td>Jan</td></tr>
+          <tr><td>5</td><td>Nicholas</td><td>Aug</td></tr>
+          <tr><td>6</td><td>Robert</td><td>May</td></tr>
+          <tr><td>7</td><td>Vincent</td><td>Dec</td></tr>
+          <tr><td>8</td><td>George</td><td>Apr</td></tr>
+          <tr><td>9</td><td>Daniel</td><td>Jan</td></tr>
+          <tr><td>10</td><td>Christopher</td><td>Feb</td></tr>
+          <tr><td>11</td><td>Hayden</td><td>Aug</td></tr>
+          <tr><td>12</td><td>Ronald</td><td>Jun</td></tr>
+          <tr><td>13</td><td>Franklin</td><td>Nov</td></tr>
+          <tr><td>14</td><td>Cooper</td><td>Sep</td></tr>
+          <tr><td>15</td><td>Terence</td><td>Oct</td></tr>
+          <tr><td>16</td><td>Astley</td><td>Feb</td></tr>
+          <tr><td>17</td><td>Bruce</td><td>Nov</td></tr>
+          <tr><td>18</td><td>Arnold</td><td>Aug</td></tr>
+          <tr><td>19</td><td>Bruno</td><td>Oct</td></tr>
+          <tr><td>20</td><td>Kenley</td><td>Oct</td></tr>
+          <tr><td>21</td><td>Boston</td><td>Jan</td></tr>
+          <tr><td>22</td><td>Jeremy</td><td>Jul</td></tr>
+          <tr><td>23</td><td>David</td><td>Sep</td></tr>
+          <tr><td>24</td><td>Alan</td><td>Jul</td></tr>
+          <tr><td>25</td><td>Wilder</td><td>Dec</td></tr>
+          <tr><td>26</td><td>Martin</td><td>Jun</td></tr>
+          <tr><td>27</td><td>Sonny</td><td>Apr</td></tr>
+          <tr><td>28</td><td>Haoxuan</td><td>May</td></tr>
+          <tr><td>29</td><td>Kenneth</td><td>Dec</td></tr>
+          <tr><td>30</td><td>Malcom</td><td>Jan</td></tr>
+      </tbody>
+  </table>
+  </div>
+
+</body>
+</html>
